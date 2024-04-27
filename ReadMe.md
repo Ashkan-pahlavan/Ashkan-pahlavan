@@ -14,5 +14,26 @@ Hey Leute, ich bin Ashkan Pahlavan, ein 35-jähriger lebensfroher Typ, der einst
 
 Sie möchten mehr über meinen Werdegang erfahren? Werfen Sie einen Blick auf meinen [Lebenslauf](https://ashkan-pahlavan.s3.eu-central-1.amazonaws.com/Lebenslauf.pdf)!
 
+## pythone 😉
+```python
+class Person:
+    def __init__(self, name, alter, beruf, leidenschaft):
+        self.name = name
+        self.alter = alter
+        self.beruf = beruf
+        self.leidenschaft = leidenschaft
 
+    def vorstellen(self):
+        print(f"Hallo, ich bin {self.name}!")
+        print(f"Ich bin {self.alter} Jahre alt und habe einst Topografie studiert.")
+        print(f"Aber dann hat die Welt der Programmierung mich wie ein Magnet angezogen.")
+        print(f"Jetzt bin ich ein leidenschaftlicher Entwickler und liebe es, kreative Lösungen zu finden.")
+        print(f"In meiner Freizeit erkunde ich gerne die Tiefen des Codes und träume von Wolken. Ja, die in der Cloud!")
+        print(f"Ich habe sogar ein Zertifikat, um das zu beweisen. Schau mal hier: [Zertifikat]")
+        print(f"Also, wenn du jemanden brauchst, der Python-Code mit einem Hauch von Humor schreibt, bin ich dein Mann!")
 
+# Hier wird Ashkan mit seinen Informationen erstellt
+ashkan = Person("Ashkan", 35, "Topografie-Enthusiast", "Programmierung und Cloud-Technologien")
+
+# Und hier stellt er sich vor!
+ashkan.vorstellen()
