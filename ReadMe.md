@@ -1,6 +1,6 @@
 ## Wer bin ich?
 
-Hey Leute, ich bin Ashkan Pahlavan, ein 35-jähriger lebensfroher Typ, der einst Topografie und Vermessung studierte. Nach vielen Tagen im Feld und vielen Höhen und Tiefen habe ich beschlossen, dass mein wahres Herz für die Programmierung schlägt. Also habe ich mich endlich dazu entschlossen, weiter in diese aufregende Welt einzutauchen!
+Hallo zusammen, ich bin Ashkan Pahlavan, ein 35-jähriger lebensfroher und ehrgeiziger Mensch, der einst Topografie und Vermessung studierte. Mein beruflicher Weg hat mich durch viele verschiedene Tätigkeiten geführt, jedoch gab es kein Gebiet, was so spannend und faszinierend war, wie die Welt der IT. Je mehr ich in die Materie eintauchte, desto wissbegieriger und engagierter wurde ich. Jedes Programm und jeder Code den ich schrieb oder verstand, ließ mich klar erkennen, dass ich meine Leidenschaft gefunden habe. Auch wenn meine Reise gerade erst begonnen hat kann ich es jetzt schon kaum erwarten die nächsten Schritte zu gehen. Schau dich gerne auf meinem Profil um mich besser kennen zu lernen.
 
 ## Über mich
 
