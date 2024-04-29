@@ -14,7 +14,7 @@ Hallo zusammen, ich bin Ashkan Pahlavan, ein 35-jähriger lebensfroher und ehrge
 
 Sie möchten mehr über meinen Werdegang erfahren? Werfen Sie einen Blick auf meinen [Lebenslauf](https://ashkan-pahlavan.s3.eu-central-1.amazonaws.com/Lebenslauf.pdf)!
 
-## pythone 😉
+## python 😉
 ```python
 class Person:
     def __init__(self, name, alter, beruf, leidenschaft):
